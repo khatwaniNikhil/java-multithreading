@@ -1,4 +1,3 @@
-# java-multithreading
 # exercises/code
 1. https://www.cs.carleton.edu/faculty/dmusican/cs348/java_multi/#orga52878d
 2. https://gist.github.com/khatwaniNikhil/41cb46aee51fd548fd11366cb55d0305
